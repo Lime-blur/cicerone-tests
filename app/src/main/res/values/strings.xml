@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cicerone Test</string>
+    <string name="go_to_1">Go to 1!</string>
+    <string name="go_to_2">Go to 2!</string>
+    <string name="go_to_3">Go to 3!</string>
+</resources>
